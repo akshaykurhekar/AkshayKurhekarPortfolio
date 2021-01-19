@@ -1,25 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Particles from './component/practical';
+import profile from './Akshay_Kurhekar.jpeg';
 function App() {
+
+    console.log(profile);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+      <div>
+          <Particles />
+        <div className="card">
+            <img className="image" src={profile} alt="akshayMK" />
+            <h1>Akshay Kurhekar</h1>
+            <p> Full Stack Developer </p>
+            Stay turn..
+            Comming soon...    
+        </div>
+    </div>      
+      );
 }
 
 export default App;
