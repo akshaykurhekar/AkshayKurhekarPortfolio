@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AkshayKurhekar/static/css/main.afb68d37.chunk.css",
-    "main.js": "/AkshayKurhekar/static/js/main.fd11f409.chunk.js",
-    "main.js.map": "/AkshayKurhekar/static/js/main.fd11f409.chunk.js.map",
-    "runtime-main.js": "/AkshayKurhekar/static/js/runtime-main.cc08b5fe.js",
-    "runtime-main.js.map": "/AkshayKurhekar/static/js/runtime-main.cc08b5fe.js.map",
-    "static/js/2.17c55d32.chunk.js": "/AkshayKurhekar/static/js/2.17c55d32.chunk.js",
-    "static/js/2.17c55d32.chunk.js.map": "/AkshayKurhekar/static/js/2.17c55d32.chunk.js.map",
-    "static/js/3.7e6b84d2.chunk.js": "/AkshayKurhekar/static/js/3.7e6b84d2.chunk.js",
-    "static/js/3.7e6b84d2.chunk.js.map": "/AkshayKurhekar/static/js/3.7e6b84d2.chunk.js.map",
-    "index.html": "/AkshayKurhekar/index.html",
-    "static/css/main.afb68d37.chunk.css.map": "/AkshayKurhekar/static/css/main.afb68d37.chunk.css.map",
-    "static/js/2.17c55d32.chunk.js.LICENSE.txt": "/AkshayKurhekar/static/js/2.17c55d32.chunk.js.LICENSE.txt",
-    "static/media/Akshay_Kurhekar.8e241703.jpeg": "/AkshayKurhekar/static/media/Akshay_Kurhekar.8e241703.jpeg"
+    "main.css": "/AkshayKurhekarPortfolio/static/css/main.afb68d37.chunk.css",
+    "main.js": "/AkshayKurhekarPortfolio/static/js/main.5cc043e0.chunk.js",
+    "main.js.map": "/AkshayKurhekarPortfolio/static/js/main.5cc043e0.chunk.js.map",
+    "runtime-main.js": "/AkshayKurhekarPortfolio/static/js/runtime-main.d2990d76.js",
+    "runtime-main.js.map": "/AkshayKurhekarPortfolio/static/js/runtime-main.d2990d76.js.map",
+    "static/js/2.77375b39.chunk.js": "/AkshayKurhekarPortfolio/static/js/2.77375b39.chunk.js",
+    "static/js/2.77375b39.chunk.js.map": "/AkshayKurhekarPortfolio/static/js/2.77375b39.chunk.js.map",
+    "static/js/3.7e6b84d2.chunk.js": "/AkshayKurhekarPortfolio/static/js/3.7e6b84d2.chunk.js",
+    "static/js/3.7e6b84d2.chunk.js.map": "/AkshayKurhekarPortfolio/static/js/3.7e6b84d2.chunk.js.map",
+    "index.html": "/AkshayKurhekarPortfolio/index.html",
+    "static/css/main.afb68d37.chunk.css.map": "/AkshayKurhekarPortfolio/static/css/main.afb68d37.chunk.css.map",
+    "static/js/2.77375b39.chunk.js.LICENSE.txt": "/AkshayKurhekarPortfolio/static/js/2.77375b39.chunk.js.LICENSE.txt",
+    "static/media/Akshay_Kurhekar.8e241703.jpeg": "/AkshayKurhekarPortfolio/static/media/Akshay_Kurhekar.8e241703.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc08b5fe.js",
-    "static/js/2.17c55d32.chunk.js",
+    "static/js/runtime-main.d2990d76.js",
+    "static/js/2.77375b39.chunk.js",
     "static/css/main.afb68d37.chunk.css",
-    "static/js/main.fd11f409.chunk.js"
+    "static/js/main.5cc043e0.chunk.js"
   ]
 }
