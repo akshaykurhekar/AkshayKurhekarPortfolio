@@ -1,5 +1,5 @@
 .card{
-    color: rgb(173, 233, 233);
+    color: rgb(196, 253, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(68, 61, 61);
     opacity: 0.88;
@@ -7,7 +7,7 @@
     margin-top: -45rem;
     margin-left: 32rem;
     margin-right: 32rem;
-    padding: 3rem;
+    padding: 2rem;
     z-index: +5;
     position: relative;
     text-align: center;
@@ -19,7 +19,11 @@ h1{
 }
 
 .image{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     border-radius: 50%;
+}
+
+.FaGithub{
+    size:5rem;
 }
