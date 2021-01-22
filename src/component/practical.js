@@ -4,7 +4,8 @@ import "./practical.css";
 function Practical() {
   return (
           <Particles className="style"
-        id="tsparticles"         
+        id="tsparticles"    
+        height="100vh" width="100vw"     
         options={{
             "autoPlay": true,
             "background": {
