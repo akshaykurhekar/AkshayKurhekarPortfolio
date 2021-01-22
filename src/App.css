@@ -12,6 +12,7 @@
     position: relative;
     text-align: center;
     border-radius: 10%;
+    box-shadow: 0 4px 8px 0 rgba(248, 248, 248, 0.863), 0 6px 15px 0 rgba(247, 242, 242, 0.671);
 }
 
 h1{
@@ -22,8 +23,7 @@ h1{
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border-color: black;
-    border-width: 10px;
+    box-shadow: 0 4px 8px rgba(71, 151, 134, 0.945), 0 6px 15px rgba(247, 242, 242, 0.753);
 }
 
 .icon{
@@ -40,6 +40,7 @@ h1:hover{
     color: rgb(255, 255, 255);
     font-family:'Times New Roman', Times, serif;
     zoom: 1.1;
+    text-shadow: 0 4px 8px rgba(71, 151, 134, 0.945), 0 6px 15px rgba(247, 242, 242, 0.753);
 }
 
 p:hover{
