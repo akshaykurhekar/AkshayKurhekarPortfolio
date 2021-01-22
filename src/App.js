@@ -15,7 +15,7 @@ function App() {
              <a  href="https://www.linkedin.com/in/akshay-kurhekar-64438a168/" rel="noreferrer" target="_blank" ><FaLinkedin className="icon"/></a>
                         
             <p> Full Stack Developer &#128540; </p>
-            Stay turn..
+            Stay turned..
             Comming soon...    
             <span >&#128525;</span>
         </div>    

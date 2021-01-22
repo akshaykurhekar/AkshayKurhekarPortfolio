@@ -67,10 +67,9 @@ p:hover{
         opacity: 0.96;
         font-weight: bold;
         margin-top: 2rem;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        margin-left: 0.6rem;
+        margin-right: 1.49rem;
         padding: 1rem;
-        
         border-radius: 10%;
         box-shadow: 0 4px 8px 0 rgba(248, 248, 248, 0.863), 0 6px 15px 0 rgba(247, 242, 242, 0.671);
     }
@@ -81,7 +80,7 @@ p:hover{
         border-radius: 50%;
         box-shadow: 0 4px 8px rgba(71, 151, 134, 0.945), 0 6px 15px rgba(247, 242, 242, 0.753);
     }
-
+    
     .heading{
         color: rgb(178, 238, 238);
         font-size: 1.5rem; 
