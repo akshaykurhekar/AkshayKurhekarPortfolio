@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/AkshayKurhekarPortfolio/static/css/main.acf87eba.chunk.css",
-    "main.js": "/AkshayKurhekarPortfolio/static/js/main.aa94008a.chunk.js",
-    "main.js.map": "/AkshayKurhekarPortfolio/static/js/main.aa94008a.chunk.js.map",
+    "main.css": "/AkshayKurhekarPortfolio/static/css/main.002cc8a2.chunk.css",
+    "main.js": "/AkshayKurhekarPortfolio/static/js/main.b5bc837e.chunk.js",
+    "main.js.map": "/AkshayKurhekarPortfolio/static/js/main.b5bc837e.chunk.js.map",
     "runtime-main.js": "/AkshayKurhekarPortfolio/static/js/runtime-main.d2990d76.js",
     "runtime-main.js.map": "/AkshayKurhekarPortfolio/static/js/runtime-main.d2990d76.js.map",
     "static/js/2.7720c353.chunk.js": "/AkshayKurhekarPortfolio/static/js/2.7720c353.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.7e6b84d2.chunk.js": "/AkshayKurhekarPortfolio/static/js/3.7e6b84d2.chunk.js",
     "static/js/3.7e6b84d2.chunk.js.map": "/AkshayKurhekarPortfolio/static/js/3.7e6b84d2.chunk.js.map",
     "index.html": "/AkshayKurhekarPortfolio/index.html",
-    "static/css/main.acf87eba.chunk.css.map": "/AkshayKurhekarPortfolio/static/css/main.acf87eba.chunk.css.map",
+    "static/css/main.002cc8a2.chunk.css.map": "/AkshayKurhekarPortfolio/static/css/main.002cc8a2.chunk.css.map",
     "static/js/2.7720c353.chunk.js.LICENSE.txt": "/AkshayKurhekarPortfolio/static/js/2.7720c353.chunk.js.LICENSE.txt",
     "static/media/Akshay_Kurhekar.8e241703.jpeg": "/AkshayKurhekarPortfolio/static/media/Akshay_Kurhekar.8e241703.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2990d76.js",
     "static/js/2.7720c353.chunk.js",
-    "static/css/main.acf87eba.chunk.css",
-    "static/js/main.aa94008a.chunk.js"
+    "static/css/main.002cc8a2.chunk.css",
+    "static/js/main.b5bc837e.chunk.js"
   ]
 }
