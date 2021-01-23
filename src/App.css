@@ -11,16 +11,16 @@ body{
     opacity: 0.96;
     font-weight: bold;
     margin-top: 2rem;
-    margin-left: 34%;
+    margin-left: 33.2%;
     padding: 2rem;
     
     border-radius: 10%;
-    box-shadow: 0 4px 8px 0 rgba(248, 248, 248, 0.863), 0 6px 15px 0 rgba(247, 242, 242, 0.671);
+    box-shadow: 0 4px 8px 0 rgba(206, 203, 203, 0.884), 0 5px 15px 0 rgba(247, 242, 242, 0.671);
 }
 
 .heading{
     padding: 0.5rem;
-    font-size: 2rem;
+    font-size: 1.9rem;
     color: rgb(178, 238, 238);
 }
 
@@ -28,7 +28,7 @@ body{
     height: 12.5rem;
     width: 12.5rem;
     border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(71, 151, 134, 0.945), 0 6px 15px rgba(247, 242, 242, 0.753);
+    box-shadow: 0 3px 6px rgba(71, 151, 134, 0.945), 0 4px 10px rgba(247, 242, 242, 0.753);
 }
 
 .icon{
@@ -40,12 +40,12 @@ body{
 .icon:hover{
     color: rgb(255, 255, 255);
     }
-
-.heading:hover{
-    color: rgb(255, 255, 255);
-    font-family:'Times New Roman', Times, serif;
+#linked:hover{
     zoom: 1.1;
-    text-shadow: 0 4px 8px rgba(71, 151, 134, 0.945), 0 6px 15px rgba(247, 242, 242, 0.753);
+}
+
+#git:hover{
+    zoom: 1.1;
 }
 
 p:hover{
