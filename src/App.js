@@ -16,7 +16,7 @@ function App() {
                         
             <p> Full Stack Developer ❤️ </p>
             Stay tuned..
-            Comming soon...    
+            Coming soon...    
             <span >😍</span>
         </div>    
           <Particles />
